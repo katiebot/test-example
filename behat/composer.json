@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://webscope.co.nz",
+  "description": "Functional testing for http://webscope.co.nz site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
